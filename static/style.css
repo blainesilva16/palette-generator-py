@@ -4,19 +4,26 @@ body {
 }
 
 .input-container {
-    width:90%;
+    width:95%;
     border-radius:20px;
     height:70vh;
     padding:20px;
     display:flex;
     flex-direction:column;
     justify-content:space-between;
-    background-color:rgba(255,255,255,0.1)
+    background-color:rgba(255,255,255,0.1);
+    border:2px solid #ffffff;
 }
 
 #h1 {
     color:white;
-    text-shadow: 1px 1px 2px black;
+    /* text-shadow: 1px 1px 2px black; */
+    /* text-shadow:rgb(32, 32, 32) 1px 2px 2px; */
+    font-family: "Host Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
 }
 
 #main {
