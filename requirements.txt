@@ -1,3 +1,4 @@
 Flask
 flask_bootstrap
 bootstrap_flask
+color_thief
