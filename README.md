@@ -22,11 +22,6 @@ A simple Flask web application to generate color palettes from uploaded images. 
    pip install -r requirements.txt
    ```
 
-   You may also need to install additional packages used in `main.py`:
-   ```bash
-   pip install colorthief pillow numpy python-dotenv
-   ```
-
 3. **Setup environment variables:**
 
    Create a `.env` file in the root directory and set your Flask secret key:
