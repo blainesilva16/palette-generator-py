@@ -77,14 +77,12 @@ A simple Flask web application to generate color palettes from uploaded images. 
 - Flask
 - Flask-Bootstrap
 - Bootstrap-Flask
-- Pillow
-- numpy
 - colorthief
 - python-dotenv
 
 ## License
 
-[MIT](LICENSE) (or specify your license here)
+[MIT](LICENSE)
 
 ## Credits
 
